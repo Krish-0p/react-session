@@ -5,7 +5,7 @@ function App() {
   const [studentData] = useState({
     name: "Krish Schezwan",
     studentId: "SID2024001",
-    program: "Computer Science",
+    program: "Information Technology",
     year: "Junior",
     email: "sarah.johnson@university.edu",
     issueDate: "Aug 2024",
