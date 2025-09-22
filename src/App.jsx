@@ -3,7 +3,7 @@ import { User, Calendar, Hash, GraduationCap } from 'lucide-react'
 
 function App() {
   const [studentData] = useState({
-    name: "Sarah Johnson",
+    name: "Krish Schezwan",
     studentId: "SID2024001",
     program: "Computer Science",
     year: "Junior",
