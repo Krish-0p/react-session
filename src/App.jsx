@@ -4,13 +4,13 @@ import { User, Calendar, Hash, GraduationCap } from 'lucide-react'
 function App() {
   const [studentData] = useState({
     name: "Krish Schezwan",
-    studentId: "SID2024001",
+    studentId: "23104079",
     program: "Information Technology",
-    year: "Junior",
-    email: "sarah.johnson@university.edu",
-    issueDate: "Aug 2024",
-    expiryDate: "Aug 2025",
-    university: "Tech University"
+    year: "TE",
+    email: "23104079@apsit.edu.in",
+    issueDate: "Aug 2025",
+    expiryDate: "Aug 2026",
+    university: "APSIT"
   })
 
   return (
